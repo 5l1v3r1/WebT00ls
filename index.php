@@ -535,7 +535,7 @@
                           Active
                         </td>
                         <td class="text-center">
-                          <button class="btn btn-sm"><a href="agecalculator.php">Go</a></button>
+                          <button class="btn btn-sm"><a href="randomip.php">Go</a></button>
                         </td>
                       </tr>
 
