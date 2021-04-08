@@ -12,7 +12,7 @@ An automated tool for all your internet activities based on a website
 |PHP Obfuscate |Active|
 |{HTML} Code Playground |Active|
 |Byte Converter |Active|
-|Htaccess Ban |Active|
+|Htaccess Ban |Maintenance|
 |Password Generator |Active|
 |Remove Duplicate Line |Active|
 
@@ -20,7 +20,7 @@ An automated tool for all your internet activities based on a website
 |---|---|
 |Query Injection |Active|
 |JSO Generator |Active|
-|Shell Image Generator |Active|
+|Shell Image Generator |Maintenance|
 |Neutralised SQL Dumper |Active|
 |Expoit PUT Method |Active|
 |Balitbang Auto Exploit |Active|
